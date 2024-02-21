@@ -1,4 +1,4 @@
-# AutoControl - Script to enable automation for SelfControl on MacOS
+# AutoControl - Script to enable automation for SelfControl
 
 ## Installation
 - Download autocontrol.applescript from the GitHub repository
